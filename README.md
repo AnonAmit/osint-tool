@@ -65,7 +65,7 @@ pip install -r osint_tool/requirements.txt
 
 4. Set up API keys (optional):
 ```bash
-cp osint_tool/.env.example .env
+cp osint_tool/.env
 # Edit the .env file with your API keys
 ```
 
