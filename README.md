@@ -45,8 +45,8 @@ The OSINT CLI Tool offers multiple intelligence gathering capabilities:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/osint-cli-tool.git
-cd osint-cli-tool
+git clone https://github.com/AnonAmit/osint-tool.git
+cd osint-tool
 ```
 
 2. Create and activate a virtual environment:
